@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\hp\Desktop\poo\windows form\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
